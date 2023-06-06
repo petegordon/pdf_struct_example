@@ -1,6 +1,6 @@
 # pdf_struct_example
 
-build the devcontainer in vscode
+build the devcontainer in vscode (you can use the vscode devcontainer extension with docker container)
 
 run the initialize.sh to install pyenv and set environment path
 
